@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/vinod1993/vinod.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Second year Masters student at IIT Madras, advised by Prof. [V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests broadly include specialized computer architectures. My current focus is on developing energy efficient hardware accelerators for Deep Learning Applications. I am particularly looking to develop Hardware Architectures which exploit the underlying sparsity in DNNs.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am also primarily involved in the [SHAKTI processor program](http://rise.cse.iitm.ac.in/rise1/projects/shakti.html), where I developed the Floating Point Unit and the peripherals for a Micro-Controller class Processor (**C-Class Processors**), which is **taped-out** in **Intel's 22nm FFL process**. The chip is expected by May 2018. I am also driving the Vector Processor development effort in the SHAKTI group. 
 
-```markdown
-Syntax highlighted code block
+The SHAKTI C-Class codebase can be found [here](https://bitbucket.org/casl/c-class).
+ 
+The Vector-Processor (in its initial phase) codebase can be found [here](https://bitbucket.org/casl/shakti_public/src/a07bfad52040965d667df5613b2a280b482d38e0/cores/common_modules/VectorAccel/?at=master).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# [](#header-3)Articles about our SHAKTI group
+* [India Preps RISC-V processors](https://www.eetimes.com/document.asp?doc_id=1328790&page_number=2)
+* [An ARM Killer from IIT-Madras? Meet the brains behind India’s ambitious processor project](https://factordaily.com/india-chip-design-shakti-iit-madras/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinod1993/vinod.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
