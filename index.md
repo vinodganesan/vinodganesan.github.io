@@ -1,6 +1,3 @@
-----
-layout: default
----
 
 I'm a Second year Doctoral student at IIT Madras, jointly advised by Prof. [V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) and [Prof. Pratyush Kumar Panda](http://www.cse.iitm.ac.in/~pratyush/).
 
