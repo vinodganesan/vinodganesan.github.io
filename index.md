@@ -16,15 +16,17 @@ The Vector-Processor (in its initial phase) codebase can be found [here](https:/
 
 # [](#header-3)Talks
 * Delivered a talk on the 22nm SHAKTI C-Class tapeout in RISC-V Workshop
-  2018.[Link](https://www.youtube.com/watch?v=eVn4tsOLRLg)
+  2018 representing the SHAKTI group, [Link](https://www.youtube.com/watch?v=eVn4tsOLRLg)
 
 # [](#header-3)SHAKTI in news
-* [India Preps RISC-V processors](https://www.eetimes.com/document.asp?doc_id=1328790&page_number=2)
-* [An ARM Killer from IIT-Madras? Meet the brains behind India’s ambitious processor project](https://factordaily.com/india-chip-design-shakti-iit-madras/)
+* [India Preps RISC-V processors, EETimes](https://www.eetimes.com/document.asp?doc_id=1328790&page_number=2)
+* [An ARM Killer from IIT-Madras? Meet the brains behind India’s ambitious processor project, Factordaily](https://factordaily.com/india-chip-design-shakti-iit-madras/)
 * [Linux Boots On “Shakti” — India’s First Ever RISC-V Based Silicon
-  Processor](https://fossbytes.com/linux-on-shakti-india-risc-v-processor-iitm/)
+  Processor, Fossbytes](https://fossbytes.com/linux-on-shakti-india-risc-v-processor-iitm/)
 * [Linux boots on new “Shakti” RISC-V
-  chip](http://linuxgizmos.com/linux-boots-on-new-shakti-risc-v-chip/)
+  chip, Linuxgizmos](http://linuxgizmos.com/linux-boots-on-new-shakti-risc-v-chip/)
+* [IIT-Madras powers up a desi
+  chip, The Hindu](https://www.thehindu.com/sci-tech/technology/iit-madras-powers-up-a-desi-chip/article24609946.ece)
 
 # [](#header-3)SHAKTI in Social Media
 * [Twitter](https://twitter.com/ShaktiProcessor/status/1022384131064430593)
