@@ -12,7 +12,7 @@ The Vector-Processor (in its initial phase) codebase can be found [here](https:/
 
 # [](#header-3)Achievements
 * Received the [Richard Newton Young Student Fellow Award](https://dac.com/content/richard-newton-young-student-fellow-program-0) in the 55th Annual [Design Automation Conference](https://dac.com/), San Francisco, USA
-* Received SERB's Overseas Doctoral Fellowship award, 2018 to visit Purdue University as a visiting research scholar.
+* Received [SERB's Overseas Doctoral Fellowship award](http://www.serbonline.in/SERB/ovdf), 2018 to visit Purdue University as a visiting research scholar.
 * The taped-out SHAKTI C-Class processor successfully powers on and boots linux oprating at 250-400 MHz
 * Taped out the first completely Indigenously designed processor in India, codenamed RIMO which operates at around 70MHz in 180nm technology and can run embedded workloads.
 
