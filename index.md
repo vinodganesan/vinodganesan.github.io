@@ -1,5 +1,5 @@
 <img src="./images/logo.jpg" style="width:300px;height:300px; position:left" />
-<br>
+<br><br>
 I'm a second year Doctoral student at IIT Madras, jointly advised by Prof. [V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) and Prof. [Pratyush Kumar](http://www.cse.iitm.ac.in/~pratyush/) at IIT Madras and Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/) from Purdue University. 
 
 My research interests broadly include specialized computer architectures. My current focus is on developing energy efficient hardware accelerators for Deep Learning Applications with a particular focus on exploiting sparsity and similarity in DNNs.
