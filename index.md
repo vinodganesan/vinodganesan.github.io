@@ -2,7 +2,7 @@ I'm a Doctoral student at IIT Madras who is very fortunate to be mentored by [Pr
 
 My research statement broadly addresses the problem of improving the resource efficiency of systems running Deep Learning (DL) applications. This involves focussing on building efficient hardware for compute-intensive DL applications as well as making efficient use of existing hardware by performing hardware-aware algorithmic modifications to key kernels in Deep Neural Networks such as Convolutions. 
 
-I am also very passionate about micro-architectural security - specifically on side-channel attacks and defenses. My current focus is on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have [Prof. Chester]() and [Prof. Biswa]() as academic collaborators in these topics of interest.  
+I am also very passionate about micro-architectural security - specifically on side-channel attacks and defenses. My current focus is on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have [Prof. Chester](https://www.cse.iitm.ac.in/~chester/) and [Prof. Biswa](https://www.cse.iitk.ac.in/users/biswap/) as academic collaborators in these topics of interest.  
 
 I am primarily involved in the [SHAKTI processor program](http://shakti.org.in), where I was involved in almost all the facets of the chip-design stack right from RTL design through verification, FPGA prototyping, backend to board bringup and post silicon validation of one of the very first tapeouts of the indigenous C-Class processor design. The design was **taped-out** in **Intel's 22nm FFL process** and **SCL's 180nm Process** and boots linux successfully. I am currently driving the AI/ML accelerators development in the SHAKTI group. 
 
@@ -12,9 +12,9 @@ I am primarily involved in the [SHAKTI processor program](http://shakti.org.in),
 * Recipient of [Richard Newton Young Student Fellow](https://dac.com/content/richard-newton-young-student-fellow-program-0) in the 55th Annual [Design Automation Conference](https://dac.com/), San Francisco, USA
 
 # [](#header-3)Publications
-* **Vinod Ganesan**, Sanchari Sen, Pratyush Kumar, Neel Gala, Kamakoti Veezhinathan and Anand Raghunathan, "Sparsity-Aware Caches to Accelerate Deep Neural Networks", in proceedings of Design Automation & Test in Europe, March 2020
-* Muhammad Arsath, **Vinod Ganesan**, Rahul Bodduna and Chester Rebeiro, "PARAM: A Microprocessor Hardened for Power Side-Channel Attack Resistance", in proceedings of International Symposium on Hardware Oriented Security and Trust (HOST), 2020 
-* Rahul Bodduna, **Vinod Ganesan**, Patanjali SLPSK, Kamakoti Veezhinathan and Chester Rebeiro, "BRUTUS: Refuting the Security Claims of the Cache Timing Randomization Countermeasure proposed in CEASER", in Computer Architecture Letters (CAL), 2020
+* **Vinod Ganesan**, Sanchari Sen, Pratyush Kumar, Neel Gala, Kamakoti Veezhinathan and Anand Raghunathan, "Sparsity-Aware Caches to Accelerate Deep Neural Networks", in proceedings of Design, Automation & Test in Europe (DATE), March 2020 [paper]()
+* Muhammad Arsath, **Vinod Ganesan**, Rahul Bodduna and Chester Rebeiro, "PARAM: A Microprocessor Hardened for Power Side-Channel Attack Resistance", in proceedings of International Symposium on Hardware Oriented Security and Trust (HOST), 2020 [paper](https://arxiv.org/abs/1911.08813)
+* Rahul Bodduna, **Vinod Ganesan**, Patanjali SLPSK, Kamakoti Veezhinathan and Chester Rebeiro, "BRUTUS: Refuting the Security Claims of the Cache Timing Randomization Countermeasure proposed in CEASER", in Computer Architecture Letters (CAL), 2020 [paper]()
 
 
 # [](#header-3)Talks
