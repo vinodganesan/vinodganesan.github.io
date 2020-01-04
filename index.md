@@ -1,39 +1,23 @@
-<img src="./images/logo.jpg" style="width:300px;height:300px; position:left" />
-<br><br>
-I'm a second year Doctoral student at IIT Madras, jointly advised by Prof. [V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) and Prof. [Pratyush Kumar](http://www.cse.iitm.ac.in/~pratyush/) at IIT Madras and Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/) from Purdue University. 
+I'm a Doctoral student at IIT Madras who is very fortunate to be mentored by [Prof. Pratyush Kumar](http://www.cse.iitm.ac.in/~pratyush/) and [Prof. V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) from IIT Madras and [Prof. Anand Raghunathan](https://engineering.purdue.edu/~araghu/) from Purdue University.
 
-My research interests broadly include specialized computer architectures. My current focus is on developing energy efficient hardware accelerators for Deep Learning Applications with a particular focus on exploiting sparsity and similarity in DNNs.
+My research statement broadly addresses the problem of improving the resource efficiency of systems running Deep Learning (DL) applications. This involves focussing on building efficient hardware for compute-intensive DL applications as well as making efficient use of existing hardware by performing hardware-aware algorithmic modifications to key kernels in Deep Neural Networks such as Convolutions. 
 
+I am also very passionate about micro-architectural security - specifically on side-channel attacks and defenses. My current focus is on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have [Prof. Chester]() and [Prof. Biswa]() as academic collaborators in these topics of interest.  
 
-I am also primarily involved in the [SHAKTI processor program](http://shakti.org.in), where I developed the Floating Point Unit and the peripherals for a Micro-Controller class Processor (**C-Class Processors**) and was involved in almost all the facets of the chip-design stack right from RTL Design through Verification, FPGA Prototyping, Backend to Board bringup and post silicon validation. The design was **taped-out** in **Intel's 22nm FFL process** and **SCL's 180nm Process**. I am also driving the AI/ML accelerators development and Vector Processor development effort in the SHAKTI group. 
-
-The SHAKTI C-Class codebase can be found [here](https://bitbucket.org/casl/c-class).
- 
-The Vector-Processor (in its initial phase) codebase can be found [here](https://bitbucket.org/casl/shakti_public/src/a07bfad52040965d667df5613b2a280b482d38e0/cores/common_modules/VectorAccel/?at=master).
+I am primarily involved in the [SHAKTI processor program](http://shakti.org.in), where I was involved in almost all the facets of the chip-design stack right from RTL design through verification, FPGA prototyping, backend to board bringup and post silicon validation of one of the very first tapeouts of the indigenous C-Class processor design. The design was **taped-out** in **Intel's 22nm FFL process** and **SCL's 180nm Process** and boots linux successfully. I am currently driving the AI/ML accelerators development in the SHAKTI group. 
 
 # [](#header-3)Achievements
-* Received the [Richard Newton Young Student Fellow Award](https://dac.com/content/richard-newton-young-student-fellow-program-0) in the 55th Annual [Design Automation Conference](https://dac.com/), San Francisco, USA
-* Received [SERB's Overseas Doctoral Fellowship award](http://www.serbonline.in/SERB/ovdf), 2018 to visit Purdue University as a visiting research scholar.
-* The taped-out SHAKTI C-Class processor successfully powers on and boots linux oprating at 250-400 MHz
-* Taped out the first completely Indigenously designed processor in India, codenamed RIMO which operates at around 70MHz in 180nm technology and can run embedded workloads.
+* Recipient of [SERB's Overseas Visiting Doctoral Fellowship](http://www.serbonline.in/SERB/ovdf) to visit Purdue University as a visiting research scholar for the academic year 2019 (~30% acceptance rate)
+* One of the 28 finalists of the Qualcomm Innovation Fellowship India, 2019 (~20% acceptance rate)
+* Recipient of [Richard Newton Young Student Fellow](https://dac.com/content/richard-newton-young-student-fellow-program-0) in the 55th Annual [Design Automation Conference](https://dac.com/), San Francisco, USA
+
+# [](#header-3)Publications
+* **Vinod Ganesan**, Sanchari Sen, Pratyush Kumar, Neel Gala, Kamakoti Veezhinathan and Anand Raghunathan, "Sparsity-Aware Caches to Accelerate Deep Neural Networks", in proceedings of Design Automation & Test in Europe, March 2020
+* Muhammad Arsath, **Vinod Ganesan**, Rahul Bodduna and Chester Rebeiro, "PARAM: A Microprocessor Hardened for Power Side-Channel Attack Resistance", in proceedings of International Symposium on Hardware Oriented Security and Trust (HOST), 2020 
+* Rahul Bodduna, **Vinod Ganesan**, Patanjali SLPSK, Kamakoti Veezhinathan and Chester Rebeiro, "BRUTUS: Refuting the Security Claims of the Cache Timing Randomization Countermeasure proposed in CEASER", in Computer Architecture Letters (CAL), 2020
+
 
 # [](#header-3)Talks
 * Delivered a talk on the 22nm SHAKTI C-Class tapeout in RISC-V Workshop
-  2018 representing the SHAKTI group, [Link](https://www.youtube.com/watch?v=eVn4tsOLRLg)
-
-# [](#header-3)SHAKTI in news
-* [India Preps RISC-V processors, EETimes](https://www.eetimes.com/document.asp?doc_id=1328790&page_number=2)
-* [An ARM Killer from IIT-Madras? Meet the brains behind India’s ambitious processor project, Factordaily](https://factordaily.com/india-chip-design-shakti-iit-madras/)
-* [Linux Boots On “Shakti” — India’s First Ever RISC-V Based Silicon
-  Processor, Fossbytes](https://fossbytes.com/linux-on-shakti-india-risc-v-processor-iitm/)
-* [Linux boots on new “Shakti” RISC-V
-  chip, Linuxgizmos](http://linuxgizmos.com/linux-boots-on-new-shakti-risc-v-chip/)
-* [IIT-Madras powers up a desi
-  chip, The Hindu](https://www.thehindu.com/sci-tech/technology/iit-madras-powers-up-a-desi-chip/article24609946.ece)
-* [NDTV: IIT Madras Unveils India's First Indigenously-Developed Microprocessor](https://www.ndtv.com/india-news/iit-madras-unveils-indias-first-indigenously-developed-microprocessor-1938349) 
-
-# [](#header-3)SHAKTI in Social Media
-* [Twitter](https://twitter.com/ShaktiProcessor/status/1022384131064430593)
-* [Reddit](https://www.reddit.com/r/linux/comments/92tvqu/first_silicon_success_on_the_first_tapeout_linux/)
-* [Hacker News](https://news.ycombinator.com/item?id=17642872&ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+  (2018) representing the SHAKTI group, [Link](https://www.youtube.com/watch?v=eVn4tsOLRLg)
 
