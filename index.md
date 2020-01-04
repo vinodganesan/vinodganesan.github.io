@@ -1,14 +1,14 @@
-I'm a PhD student at IIT Madras who is very fortunate to be mentored by Prof. [Pratyush Kumar](http://www.cse.iitm.ac.in/~pratyush/) and Prof.[ V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) from IIT Madras and Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/) from Purdue University.
+I'm a PhD student at IIT Madras mentored by Prof. [Pratyush Kumar](http://www.cse.iitm.ac.in/~pratyush/) and Prof.[ V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) from IIT Madras and Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/) from Purdue University.
 
-My research statement broadly addresses the problem of improving the resource efficiency of systems running Deep Learning (DL) applications. This involves focussing on building efficient hardware for compute-intensive DL applications as well as making efficient use of existing hardware by performing hardware-aware algorithmic modifications to key kernels in Deep Neural Networks such as Convolutions. 
+My research broadly addresses the problem of improving the resource efficiency of systems running Deep Learning (DL) applications. This involves focussing on building efficient hardware for compute-intensive DL applications as well as making efficient use of existing hardware by performing hardware-aware algorithmic modifications to key kernels in Deep Neural Networks such as Convolutions. 
 
-I am also very passionate about micro-architectural security - specifically on side-channel attacks and defenses. My current focus is on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have Prof. [Chester](https://www.cse.iitm.ac.in/~chester/) and [Biswa](https://www.cse.iitk.ac.in/users/biswap/) as academic collaborators in these topics of interest.  
+I am also passionate about micro-architectural security - specifically on side-channel attacks and defenses. My current focus is on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have Prof. [Chester](https://www.cse.iitm.ac.in/~chester/) and [Biswa](https://www.cse.iitk.ac.in/users/biswap/) as academic collaborators in these topics of interest.  
 
-I am primarily involved in the [SHAKTI processor program](http://shakti.org.in), where I was integral in almost all the facets of the chip-design stack right from RTL design to post silicon validation of one of the very first tapeouts of the indigenous C-Class processor design. The design was taped-out in Intel's 22nm FFL process and SCL's 180nm Process and boots linux successfully. I am currently driving the AI/ML accelerators development in the SHAKTI group. 
+I was an integral part of the [SHAKTI processor program](http://shakti.org.in), involved in almost all the facets of the chip-design stack right from RTL design to post silicon validation of one of the very first tapeouts of the indigenous C-Class processor design. The design was taped-out in Intel's 22nm FFL process and SCL's 180nm Process and boots linux successfully. I am currently driving the AI/ML accelerators development in the SHAKTI group. 
 
 # [](#header-3)Achievements
-* Recipient of [SERB's Overseas Visiting Doctoral Fellowship](http://www.serbonline.in/SERB/ovdf) to visit Purdue University as a visiting research scholar for the academic year 2019 (~30% acceptance rate)
-* One of the 28 finalists of the Qualcomm Innovation Fellowship India, 2019 (~20% acceptance rate)
+* Recipient of [SERB's Overseas Visiting Doctoral Fellowship](http://www.serbonline.in/SERB/ovdf) to visit Purdue University as a visiting research scholar for the academic year 2019
+* One of the 28 finalists of the Qualcomm Innovation Fellowship India, 2019 (28/136 participants) 
 * Recipient of [Richard Newton Young Student Fellow](https://dac.com/content/richard-newton-young-student-fellow-program-0) in the 55th Annual [Design Automation Conference](https://dac.com/), San Francisco, USA
 
 # [](#header-3)Publications
