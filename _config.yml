@@ -1,6 +1,6 @@
 title: Vinod Ganesan
 description: PhD Scholar, IIT Madras
 show_downloads: false
-use_logo: false
+use_logo: true
 logo: images/logo.jpg
 theme: jekyll-theme-minimal
