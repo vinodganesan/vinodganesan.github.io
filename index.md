@@ -7,7 +7,7 @@ I also actively work on micro-architectural security - specifically on side-chan
 I was an integral part of the [SHAKTI processor program](http://shakti.org.in), involved in almost all facets of the chip-design stack right from RTL design to post silicon validation of one of the very first indigenous tapeouts: The C-Class processor. The design was taped-out in Intel's 22nm FFL process and SCL's 180nm process and boots linux successfully. I am currently driving the AI/ML accelerators development in the SHAKTI group. 
 
 # [](#header-3)Achievements
-* Recipient of [SERB's Overseas Visiting Doctoral Fellowship](http://www.serbonline.in/SERB/ovdf) to visit Purdue University as a visiting research scholar for the academic year 2019
+* Recipient of [SERB's Overseas Visiting Doctoral Fellowship](http://www.serbonline.in/SERB/ovdf) to visit Purdue University as a research scholar for the academic year 2019
 * One of the 28 finalists of the Qualcomm Innovation Fellowship India, 2019 (28/136 participants) 
 * Recipient of [Richard Newton Young Student Fellow](https://dac.com/content/richard-newton-young-student-fellow-program-0) in the 55th Annual [Design Automation Conference](https://dac.com/), San Francisco, USA
 
