@@ -1,6 +1,6 @@
 I'm a PhD student at IIT Madras mentored by Prof. [Pratyush Kumar](http://www.cse.iitm.ac.in/~pratyush/) and Prof.[ V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) from IIT Madras and Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/) from Purdue University.
 
-My research broadly addresses the problem of improving the resource efficiency of systems running Deep Learning (DL) applications. This involves building efficient hardware for compute-intensive DL applications as well as making efficient use of existing hardware by performing hardware-aware algorithmic modifications to key kernels in Deep Neural Networks such as Convolutions. 
+My research broadly addresses the problem of improving the resource efficiency of systems running Deep Learning (DL) applications. This involves building efficient hardware for compute-intensive DL applications as well as making efficient use of existing hardware by performing hardware-aware algorithmic modifications to key kernels in Deep Neural Networks such as convolutions. 
 
 I also actively work on micro-architectural security - specifically on side-channel attacks and defenses. My current focus is on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have Prof. [Chester](https://www.cse.iitm.ac.in/~chester/) and [Biswa](https://www.cse.iitk.ac.in/users/biswap/) as academic collaborators in these topics of interest.  
 
