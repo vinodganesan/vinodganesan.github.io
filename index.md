@@ -2,7 +2,7 @@ I'm a PhD student at IIT Madras mentored by Prof. [Pratyush Kumar](http://www.cs
 
 My research broadly addresses the problem of improving the resource efficiency of systems running Deep Learning (DL) applications. This involves building efficient hardware for compute-intensive DL applications as well as making efficient use of existing hardware by performing hardware-aware algorithmic modifications to key kernels in Deep Neural Networks such as convolutions. 
 
-I also actively work on micro-architectural security - specifically on side-channel attacks and defenses. My current focus is on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have Prof. [Chester](https://www.cse.iitm.ac.in/~chester/) and [Biswa](https://www.cse.iitk.ac.in/users/biswap/) as academic collaborators in these topics of interest.  
+Whenever I find time, I also actively work on micro-architectural security - specifically on side-channel attacks and defenses. My current focus is on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have Prof. [Chester](https://www.cse.iitm.ac.in/~chester/) and [Biswa](https://www.cse.iitk.ac.in/users/biswap/) as academic collaborators in these topics of interest.  
 
 I was an integral part of the [SHAKTI processor program](http://shakti.org.in), involved in almost all facets of the chip-design stack right from RTL design to post silicon validation of one of the very first indigenous tapeouts: The C-Class processor. The design was taped-out in Intel's 22nm FFL process and SCL's 180nm process and boots linux successfully. I am currently driving the AI/ML accelerators development in the SHAKTI group. 
 
