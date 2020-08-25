@@ -1,10 +1,10 @@
-I'm a third-year PhD student at IIT Madras mentored by Prof. [Pratyush Kumar](http://www.cse.iitm.ac.in/~pratyush/) and Prof.[ V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) from IIT Madras and Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/) from Purdue University.
+I'm a third-year PhD student at IIT Madras mentored by Prof. [Pratyush Kumar](http://www.cse.iitm.ac.in/~pratyush/) and Prof.[V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) from IIT Madras and Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/) from Purdue University.
 
 My research broadly addresses the problem of improving the resource efficiency of systems running Deep Learning (DL) applications. This involves building efficient hardware for compute-intensive DL applications as well as making efficient use of existing hardware by performing hardware-aware algorithmic modifications to key kernels in Deep Neural Networks such as convolutions. 
 
 Whenever I find time, I also actively work on micro-architectural security - specifically on side-channel attacks and defenses. My current focus is on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have Prof. [Chester](https://www.cse.iitm.ac.in/~chester/) and [Biswa](https://www.cse.iitk.ac.in/users/biswap/) as academic collaborators in these topics of interest.  
 
-I was an integral part of the [SHAKTI processor program](http://shakti.org.in), involved in almost all facets of the chip-design stack right from RTL design to post silicon validation of one of the very first indigenous tapeouts: The C-Class processor. The design was taped-out in Intel's 22nm FFL process and SCL's 180nm process and boots linux successfully. I am currently driving the AI/ML accelerators development in the SHAKTI group. 
+I was an integral part of the [SHAKTI processor program](http://shakti.org.in), involved in almost all facets of the chip-design stack right from RTL design to post silicon validation of India's very first indigenous microprocessor family called C-Class. The design was [taped-out](http://shakti.org.in/tapeout.html) in Intel's 22nm FFL process and SCL's 180nm process and boots linux successfully. I am currently driving the AI/ML accelerators development in the SHAKTI group. 
 
 # [](#header-3)Achievements
 * DAC young student fellow, 2020
@@ -23,3 +23,5 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
 * Delivered a talk on the 22nm SHAKTI C-Class tapeout in RISC-V Workshop
   (2018) representing the SHAKTI group, [Link](https://www.youtube.com/watch?v=eVn4tsOLRLg)
 
+# [](#header-3)Teaching
+* I served as one of the lead teaching assistants for the graduate level course at IITM on [Systems Engineering for Deep Learning](http://www.cse.iitm.ac.in/~pratyush/cs6886_spring2020/). This was the first offering of the course.
