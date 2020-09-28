@@ -15,13 +15,6 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
 * [Richard Newton Young Student Fellow](https://dac.com/content/richard-newton-young-student-fellow-program-0), DAC 2018
 
 # [](#header-3)Publications
-* **A Case for Generalizable DNN Cost Models for Mobile Devices**
-
-Vinod Ganesan, Surya Selvam, Sanchari Sen, Pratyush Kumar and Anand Raghunathan
-
-International Symposium on Workload Characterization (IISWC), 2020 
-
-[(paper)]() [(code)]()  
 * Vinod Ganesan, Surya Selvam, Sanchari Sen, Pratyush Kumar, and Anand Raghunathan, "A Case for Generalizable DNN Cost Models for Mobile Devices", in proceedings of International Symposium on Workload Characterization (IISWC), 2020. [(paper)]()
 * Vinod Ganesan, Sanchari Sen, Pratyush Kumar, Neel Gala, Kamakoti Veezhinathan and Anand Raghunathan, "Sparsity-Aware Caches to Accelerate Deep Neural Networks", in proceedings of Design, Automation & Test in Europe (DATE), 2020. [(paper)](https://ieeexplore.ieee.org/document/9116511)
 * Muhammad Arsath, Vinod Ganesan, Rahul Bodduna and Chester Rebeiro, "PARAM: A Microprocessor Hardened for Power Side-Channel Attack Resistance", in proceedings of International Symposium on Hardware Oriented Security and Trust (HOST), 2020. [(paper)](https://arxiv.org/abs/1911.08813) (Best paper nomination)
