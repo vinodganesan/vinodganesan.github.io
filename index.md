@@ -27,4 +27,4 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
   (2018) representing the SHAKTI group, [Link](https://www.youtube.com/watch?v=eVn4tsOLRLg)
 
 # [](#header-3)Teaching
-* I served as one of the lead teaching assistants for the graduate level course at IITM on [Systems Engineering for Deep Learning](http://www.cse.iitm.ac.in/~pratyush/cs6886_spring2020/). This was the first offering of the course.
+* I served as one of the lead teaching assistants for the graduate level course at IITM on [Systems Engineering for Deep Learning](http://www.cse.iitm.ac.in/~pratyush/cs6886_full/). This was the first offering of the course.
