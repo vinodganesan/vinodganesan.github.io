@@ -16,7 +16,7 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
 
 # [](#header-3)Publications
 * Vinod Ganesan, Surya Selvam, Sanchari Sen, Pratyush Kumar, and Anand Raghunathan, "A Case for Generalizable DNN Cost Models for Mobile Devices", in proceedings of International Symposium on Workload Characterization (IISWC), 2020. [(paper)](./files/Generalizable_DNN_Cost_Models_IISWC_2020.pdf) [(slides)](https://slides.com/pratyushkumarpanda/deck/fullscreen?token=QQC26kZT)
- [(code)]()
+ [(code)]() [(talk)](https://www.youtube.com/watch?v=Mh1c-tNWRoc&list=PLHJB2bhmgB7f3pxMCp_axYb_BGIn5lzf4&index=32)
 * Vinod Ganesan, Sanchari Sen, Pratyush Kumar, Neel Gala, Kamakoti Veezhinathan and Anand Raghunathan, "Sparsity-Aware Caches to Accelerate Deep Neural Networks", in proceedings of Design, Automation & Test in Europe (DATE), 2020. [(paper)](https://ieeexplore.ieee.org/document/9116511)
 * Muhammad Arsath, Vinod Ganesan, Rahul Bodduna and Chester Rebeiro, "PARAM: A Microprocessor Hardened for Power Side-Channel Attack Resistance", in proceedings of International Symposium on Hardware Oriented Security and Trust (HOST), 2020. [(paper)](https://arxiv.org/abs/1911.08813) (Best paper nomination)
 * Rahul Bodduna, Vinod Ganesan, Patanjali SLPSK, Kamakoti Veezhinathan and Chester Rebeiro, "BRUTUS: Refuting the Security Claims of the Cache Timing Randomization Countermeasure proposed in CEASER", in Computer Architecture Letters (CAL), 2020. [(paper)](https://ieeexplore.ieee.org/document/8950094)
