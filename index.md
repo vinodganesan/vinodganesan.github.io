@@ -15,6 +15,8 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
 * [Richard Newton Young Student Fellow](https://dac.com/content/richard-newton-young-student-fellow-program-0), DAC 2018
 
 # [](#header-3)Publications
+* Surya Selvam, Vinod Ganesan, Pratyush Kumar, "FuSeConv: Fully Separable Convolutions for Fast Inference on Systolic Arrays", to appear in proceedings of Design, Automation & Test in Europe (DATE), 2021. [(paper)]()
+* Vishal Gupta, Vinod Ganesan, Biswabandan Panda, "Seclusive Cache Hierarchy for MitigatingCross-Core Cache and Coherence Directory Attacks", to appear in proceedings of Design, Automation & Test in Europe (DATE), 2021. [(paper)]()
 * Vinod Ganesan, Surya Selvam, Sanchari Sen, Pratyush Kumar, and Anand Raghunathan, "A Case for Generalizable DNN Cost Models for Mobile Devices", in proceedings of International Symposium on Workload Characterization (IISWC), 2020. [(paper)](./files/Generalizable_DNN_Cost_Models_IISWC_2020.pdf) [(slides)](https://slides.com/pratyushkumarpanda/deck/fullscreen?token=QQC26kZT)
  [(code)]() [(talk)](https://www.youtube.com/watch?v=Mh1c-tNWRoc&list=PLHJB2bhmgB7f3pxMCp_axYb_BGIn5lzf4&index=32)
 * Vinod Ganesan, Sanchari Sen, Pratyush Kumar, Neel Gala, Kamakoti Veezhinathan and Anand Raghunathan, "Sparsity-Aware Caches to Accelerate Deep Neural Networks", in proceedings of Design, Automation & Test in Europe (DATE), 2020. [(paper)](https://ieeexplore.ieee.org/document/9116511)
