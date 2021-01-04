@@ -7,6 +7,7 @@ Whenever I find time, I also actively work on micro-architectural security - spe
 I was an integral part of the [SHAKTI processor program](http://shakti.org.in), involved in almost all facets of the chip-design stack right from RTL design to post silicon validation of India's very first indigenous microprocessor family called C-Class. The design was [taped-out](http://shakti.org.in/tapeout.html) in Intel's 22nm FFL process and SCL's 180nm process and boots linux successfully. I am currently driving the AI/ML accelerators development in the SHAKTI group. 
 
 # [](#header-3)Achievements
+* Best paper award at HOST 2020
 * Intel India Research Fellowship, 2020-21
 * DAC young student fellow, 2020
 * ANSYS PhD fellowship, 2020
@@ -20,7 +21,7 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
 * Vinod Ganesan, Surya Selvam, Sanchari Sen, Pratyush Kumar, and Anand Raghunathan, "A Case for Generalizable DNN Cost Models for Mobile Devices", in proceedings of International Symposium on Workload Characterization (IISWC), 2020. [(paper)](./files/Generalizable_DNN_Cost_Models_IISWC_2020.pdf) [(slides)](https://slides.com/pratyushkumarpanda/deck/fullscreen?token=QQC26kZT)
  [(code)]() [(talk)](https://www.youtube.com/watch?v=Mh1c-tNWRoc&list=PLHJB2bhmgB7f3pxMCp_axYb_BGIn5lzf4&index=32)
 * Vinod Ganesan, Sanchari Sen, Pratyush Kumar, Neel Gala, Kamakoti Veezhinathan and Anand Raghunathan, "Sparsity-Aware Caches to Accelerate Deep Neural Networks", in proceedings of Design, Automation & Test in Europe (DATE), 2020. [(paper)](https://ieeexplore.ieee.org/document/9116511)
-* Muhammad Arsath, Vinod Ganesan, Rahul Bodduna and Chester Rebeiro, "PARAM: A Microprocessor Hardened for Power Side-Channel Attack Resistance", in proceedings of International Symposium on Hardware Oriented Security and Trust (HOST), 2020. [(paper)](https://arxiv.org/abs/1911.08813) (Best paper nomination)
+* Muhammad Arsath, Vinod Ganesan, Rahul Bodduna and Chester Rebeiro, "PARAM: A Microprocessor Hardened for Power Side-Channel Attack Resistance", in proceedings of International Symposium on Hardware Oriented Security and Trust (HOST), 2020. [(paper)](https://arxiv.org/abs/1911.08813) [(Awarded best paper)](http://www.hostsymposium.org/host_2020awards.php)
 * Rahul Bodduna, Vinod Ganesan, Patanjali SLPSK, Kamakoti Veezhinathan and Chester Rebeiro, "BRUTUS: Refuting the Security Claims of the Cache Timing Randomization Countermeasure proposed in CEASER", in Computer Architecture Letters (CAL), 2020. [(paper)](https://ieeexplore.ieee.org/document/8950094)
 
 
