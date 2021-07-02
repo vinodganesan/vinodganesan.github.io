@@ -16,7 +16,8 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
 * [Richard Newton Young Student Fellow](https://dac.com/content/richard-newton-young-student-fellow-program-0), DAC 2018
 
 # [](#header-3)Publications
-* Surya Selvam, Vinod Ganesan, Pratyush Kumar, "FuSeConv: Fully Separable Convolutions for Fast Inference on Systolic Arrays", to appear in proceedings of Design, Automation & Test in Europe (DATE), 2021. [(paper)](https://surya00060.github.io/files/FuSeConv_DATE_2021.pdf)
+* Nikhilesh Singh, Vinod Ganesan, Chester Rebeiro, "Transient Micro-Architectural Attacks", Book chapter, Handbook of Computer Architecture, 2021
+* Surya Selvam, Vinod Ganesan, Pratyush Kumar, "FuSeConv: Fully Separable Convolutions for Fast Inference on Systolic Arrays", to appear in proceedings of Design, Automation & Test in Europe (DATE), 2021. [(paper)](https://arxiv.org/abs/2105.13434)
 * Vishal Gupta, Vinod Ganesan, Biswabandan Panda, "Seclusive Cache Hierarchy for Mitigating Cross-Core Cache and Coherence Directory Attacks", to appear in proceedings of Design, Automation & Test in Europe (DATE), 2021. [(paper)](https://www.cse.iitk.ac.in/users/vishal/seclusive_full_paper.pdf)
 * Vinod Ganesan, Surya Selvam, Sanchari Sen, Pratyush Kumar, and Anand Raghunathan, "A Case for Generalizable DNN Cost Models for Mobile Devices", in proceedings of International Symposium on Workload Characterization (IISWC), 2020. [(paper)](./files/Generalizable_DNN_Cost_Models_IISWC_2020.pdf) [(slides)](https://slides.com/pratyushkumarpanda/deck/fullscreen?token=QQC26kZT)
  [(code)]() [(talk)](https://www.youtube.com/watch?v=Mh1c-tNWRoc&list=PLHJB2bhmgB7f3pxMCp_axYb_BGIn5lzf4&index=32)
