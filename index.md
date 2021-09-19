@@ -16,6 +16,8 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
 * [Richard Newton Young Student Fellow](https://dac.com/content/richard-newton-young-student-fellow-program-0), DAC 2018
 
 # [](#header-3)Publications
+* Vinod Ganesan, Pratyush Kumar, "Design and Scaffolded Training of an Efficient DNN Operator for Computer Vision on the Edge", Under review. [(paper)](https://arxiv.org/abs/2108.11441)
+* Pranav Gadikar, Vinod Ganesan, Pratyush Kumar, "Generalized Weight Agnostic Neural Networks for Configurable and Continual Autonomous Systems", AIMLSystems, 2021. [(paper)]()
 * Nikhilesh Singh, Vinod Ganesan, Chester Rebeiro, "Transient Micro-Architectural Attacks", Book chapter, Handbook of Computer Architecture, Springer 2021
 * Surya Selvam, Vinod Ganesan, Pratyush Kumar, "FuSeConv: Fully Separable Convolutions for Fast Inference on Systolic Arrays", to appear in proceedings of Design, Automation & Test in Europe (DATE), 2021. [(paper)](https://arxiv.org/abs/2105.13434)
 * Vishal Gupta, Vinod Ganesan, Biswabandan Panda, "Seclusive Cache Hierarchy for Mitigating Cross-Core Cache and Coherence Directory Attacks", to appear in proceedings of Design, Automation & Test in Europe (DATE), 2021. [(paper)](https://www.cse.iitk.ac.in/users/vishal/seclusive_full_paper.pdf)
