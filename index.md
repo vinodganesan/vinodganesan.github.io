@@ -1,4 +1,4 @@
-I'm a PhD student at IIT Madras advised by [Pratyush Kumar](https://www.microsoft.com/en-us/research/people/pratykumar/) and Prof.[V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=). Previously, I was an Oveseas Doctoral Scholar at Purdue University advised by Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/). 
+I'm a PhD student at IIT Madras advised by [Pratyush Kumar](https://www.microsoft.com/en-us/research/people/pratykumar/) and Prof. [V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=). Previously, I was an Oveseas Doctoral Scholar at Purdue University advised by Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/). 
 
 I work on improving the resource efficiency of Deep Neural Networks (DNNs) and Deep Learning (DL) systems. This is achieved across three principal axes: Building efficient systems, efficient design methodolgies, and efficient networks.   
 
