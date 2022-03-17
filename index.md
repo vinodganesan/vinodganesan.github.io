@@ -12,7 +12,7 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
 * Intel India Research Fellowship, 2020-21
 * DAC young student fellow, 2020
 * ANSYS PhD fellowship, 2020
-* Recipient of [SERB's Overseas Visiting Doctoral Fellowship](http://www.serbonline.in/SERB/ovdf) to visit Purdue University as a research scholar for the academic year 2019
+* Recipient of [SERB's Overseas Visiting Doctoral Fellowship](http://www.serbonline.in/SERB/ovdf)
 * One of the 28 finalists of the Qualcomm Innovation Fellowship India, 2019 (28/136 participants) 
 * [Richard Newton Young Student Fellow](https://dac.com/content/richard-newton-young-student-fellow-program-0), DAC 2018
 
