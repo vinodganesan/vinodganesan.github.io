@@ -1,13 +1,13 @@
-I'm a PhD student at IIT Madras mentored by Prof. [Pratyush Kumar](http://www.cse.iitm.ac.in/~pratyush/) and Prof.[V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=) from IIT Madras and Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/) from Purdue University.
+I'm a PhD student at IIT Madras advised by [Pratyush Kumar](https://www.microsoft.com/en-us/research/people/pratykumar/) and Prof.[V. Kamakoti](https://www.cse.iitm.ac.in/profile.php?arg=MTg=). Previously, I was an Oveseas Doctoral Scholar at Purdue University advised by Prof. [Anand Raghunathan](https://engineering.purdue.edu/~araghu/). 
 
 I work on improving the resource efficiency of Deep Neural Networks (DNNs) and Deep Learning (DL) systems. This is achieved across three principal axes: Building efficient systems, efficient design methodolgies, and efficient networks.   
 
 I am also passionate about micro-architectural security - specifically on side-channel attacks and defenses. I have actively worked on building secure micro-architectures that detect and thwart timing and power side-channel attacks. I am fortunate to have Prof. [Chester](https://www.cse.iitm.ac.in/~chester/) and [Biswa](https://www.cse.iitk.ac.in/users/biswap/) as academic collaborators in these topics of interest.
   
-I was an integral part of the [SHAKTI processor program](http://shakti.org.in), involved in all facets of the chip-design stack from RTL design to post silicon validation of India's very first indigenous microprocessor family: C-Class. The design was [taped-out](http://shakti.org.in/tapeout.html) on Intel's 22nm FFL process and SCL's 180nm process and boots linux successfully. I was also an integral part in driving the AI/ML accelerator development within the SHAKTI group. 
+I was an integral part of the [SHAKTI processor program](http://shakti.org.in), involved in all facets of the chip-design stack from RTL design to post silicon validation of India's very first indigenous microprocessor family: C-Class. The design was [taped-out](http://shakti.org.in/tapeout.html) on Intel's 22nm FFL process and SCL's 180nm process and boots linux successfully. I was also leading the AI/ML accelerator development within the SHAKTI group. 
 
 
-# [](#header-3)Achievements
+# [](#header-3)Selected Honors
 * Best paper award at HOST 2020
 * Intel India Research Fellowship, 2020-21
 * DAC young student fellow, 2020
@@ -36,3 +36,6 @@ I was an integral part of the [SHAKTI processor program](http://shakti.org.in), 
 
 # [](#header-3)Teaching
 * I served as one of the lead teaching assistants for the first and second offering of the graduate level course at IITM on [Systems Engineering for Deep Learning](http://www.cse.iitm.ac.in/~pratyush/cs6886.html).
+
+# [](#header-3)Service
+* Reviewer, IEEE S&P 2021
